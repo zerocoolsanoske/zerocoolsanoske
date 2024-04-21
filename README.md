@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... encrytioncracking
 - 📫 How to reach me ... whistle into the wind
 - 😄 Pronouns: ... fuck/all
-- ⚡ Fun fact: ... zeroc cool 
+- ⚡ Fun fact: ... zero cool 
 
 <!---
 zerocoolsanoske/zerocoolsanoske is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
